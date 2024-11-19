@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+
+#component{
+    display:flex;
+    justify-content: space-around;
+}
+
+#cartImg{
+    width: 150px;
+    height: 120px;
+}
+
+.CartHolder{
+    border: 1px solid black;
+    padding:20px;
+    background-color: black;
+    color: white;
+}
