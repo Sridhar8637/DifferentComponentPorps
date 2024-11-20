@@ -15,6 +15,7 @@ export class Classcomponent extends Component {
               price: 120,
               hotel: "Perambur Srinivasa",
               imgages: "/images/food/sambaridly.jpg",
+              isLiked:false
             },
             {
               id: 2,
@@ -24,6 +25,7 @@ export class Classcomponent extends Component {
               price: 160,
               hotel: "sangeetha",
               imgages: "/images/food/fullmeal.jpg",
+              isLiked:false
             },
             {
               id: 3,
@@ -33,6 +35,7 @@ export class Classcomponent extends Component {
               price: 220,
               hotel: "Biryani Brothers",
               imgages: "/images/food/sukkucb.jpg",
+              isLiked:false
             }
         ]
 
